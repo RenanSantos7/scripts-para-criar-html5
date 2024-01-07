@@ -52,7 +52,7 @@ cd ./Downloads
 
 A única coisa que o script irá pedir ao ser executado é o nome do projeto. Alternativamente você pode digitar 'sair' para parar a execução. Se nada for digitado, ele pedirá novamente um nome.
 
-Após dar um nome para o projeto ele criará um pasta com esse mesmo nome e os arquivos necessários dentro dela. O nome também será atribuído na tag `<title>` do `<head> da página html.
+Após dar um nome para o projeto ele criará um pasta com esse mesmo nome e os arquivos necessários dentro dela. O nome também será atribuído na tag `<title>` do `<head>` da página html.
 
 ## Licensa
 Este repositório tem uma [licença MIT](LICENSE)
